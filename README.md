@@ -14,3 +14,9 @@ I'll list the things that are learned in each project
 - Buttons and actions
 - Images as buttons
 - Alerts
+
+## Project 3 / Easy Browser
+- Action Sheet
+- Webview
+- Progress bar
+- Navigatino toolbar
