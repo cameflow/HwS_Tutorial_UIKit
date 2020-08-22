@@ -20,3 +20,8 @@ I'll list the things that are learned in each project
 - Webview
 - Progress bar
 - Navigatino toolbar
+
+## Project 4 / World Scramble
+- Textfields in AlertViews
+- Insert rows in Tables
+- Find resource in project
