@@ -16,6 +16,7 @@
 		FA98E86B2511C03F00DD3CD7 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA98E86A2511C03F00DD3CD7 /* TabBarController.swift */; };
 		FA98E86D2511C75E00DD3CD7 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA98E86C2511C75E00DD3CD7 /* Petition.swift */; };
 		FA98E86F2511C7BA00DD3CD7 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA98E86E2511C7BA00DD3CD7 /* Petitions.swift */; };
+		FA98E871251260A600DD3CD7 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA98E870251260A600DD3CD7 /* DetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		FA98E86A2511C03F00DD3CD7 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		FA98E86C2511C75E00DD3CD7 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 		FA98E86E2511C7BA00DD3CD7 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		FA98E870251260A600DD3CD7 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				FA98E8562511BD8500DD3CD7 /* AppDelegate.swift */,
 				FA98E8582511BD8500DD3CD7 /* SceneDelegate.swift */,
 				FA98E85A2511BD8500DD3CD7 /* ViewController.swift */,
+				FA98E870251260A600DD3CD7 /* DetailVC.swift */,
 				FA98E86C2511C75E00DD3CD7 /* Petition.swift */,
 				FA98E86E2511C7BA00DD3CD7 /* Petitions.swift */,
 				FA98E85C2511BD8500DD3CD7 /* Main.storyboard */,
@@ -153,6 +156,7 @@
 				FA98E86B2511C03F00DD3CD7 /* TabBarController.swift in Sources */,
 				FA98E8572511BD8500DD3CD7 /* AppDelegate.swift in Sources */,
 				FA98E8592511BD8500DD3CD7 /* SceneDelegate.swift in Sources */,
+				FA98E871251260A600DD3CD7 /* DetailVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
