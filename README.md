@@ -25,3 +25,8 @@ I'll list the things that are learned in each project
 - Textfields in AlertViews
 - Insert rows in Tables
 - Find resource in project
+
+## Project 5 / Whitehouse Petitions
+- JSON Parsing
+- Network Calls
+- Tabbar controller
